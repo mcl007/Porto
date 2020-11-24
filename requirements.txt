@@ -1,0 +1,16 @@
+asn1crypto==0.22.0
+bcrypt
+cryptography>=2.3
+django>=1.11.18
+django-split-settings==0.2.5
+enum34==1.1.6
+Fabric==1.13.2
+idna==2.5
+ipaddress==1.0.18
+paramiko>=2.2.4
+psycopg2
+pyasn1==0.2.3
+pycparser==2.17
+PyNaCl
+pytz==2017.2
+six==1.10.0
